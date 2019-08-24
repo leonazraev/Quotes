@@ -13,7 +13,7 @@ export default {
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 92px;
-  
+  padding-bottom: 50px;
   text-align: center;
   text-transform: uppercase;
   text-rendering: optimizeLegibility;
